@@ -1,4 +1,4 @@
-filepath = "D:\Projects\hindi-text\\vol1.pdf"
+filepath = "D:\Projects\devanagari-text-extraction\data\\raw\\1.pdf"
 
 import fitz
 import cv2
